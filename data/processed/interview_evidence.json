@@ -1,0 +1,6 @@
+[
+  {"evidence_id":"demo_001","respondent_id":"student_budget_user","citation_label":"demo student / price","question_text_raw":"What matters when choosing a phone?","answer_text_clean":"I first look at price, battery and storage because my phone is used for study, family communication and social apps.","tags":["price","battery","storage"]},
+  {"evidence_id":"demo_002","respondent_id":"young_creator_user","citation_label":"demo creator / camera","question_text_raw":"What features matter most?","answer_text_clean":"Camera, display and storage matter because I use the phone for photos, videos and social content.","tags":["camera","display","content"]},
+  {"evidence_id":"demo_003","respondent_id":"work_calls_user","citation_label":"demo work / reliability","question_text_raw":"What makes a phone useful for work?","answer_text_clean":"For work, battery, call reliability and after-sales service are more important than just design.","tags":["battery","work","service"]},
+  {"evidence_id":"demo_004","respondent_id":"family_social_user","citation_label":"demo family / daily use","question_text_raw":"How is the phone used daily?","answer_text_clean":"The phone is mostly for family contact, social media and photos, so it should be easy to use and dependable.","tags":["family","social","camera"]}
+]
