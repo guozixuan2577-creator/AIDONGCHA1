@@ -1,0 +1,5 @@
+[
+  {"market_id":"mkt_price_pressure","title":"Pakistan smartphone price pressure","quote_display_text":"Consumers in Pakistan are sensitive to price increases because household budgets, import costs, taxes and exchange-rate pressure can quickly change perceived value.","tags":["price","budget","pkr"]},
+  {"market_id":"mkt_brand_trust","title":"Brand trust and channel confidence","quote_display_text":"Brand trust, after-sales service, shopkeeper advice, family recommendations and visible peer usage strongly influence phone choice.","tags":["brand","trust","channel"]},
+  {"market_id":"mkt_usage","title":"Daily usage priorities","quote_display_text":"Battery, storage, performance, camera, display and durability matter because phones are used for study, work, family contact, content and payments.","tags":["battery","camera","performance","storage"]}
+]
